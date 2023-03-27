@@ -1,0 +1,5 @@
+Halo pak, Nama saya Alfian dari New York
+
+Resolusi saya :
+- membuat website menggunakan framework javascript
+- bekerja di startup
